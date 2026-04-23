@@ -1,0 +1,24 @@
+{
+  "timestamp": 0,
+  "data": {
+    "availableUsernameChanges": 0,
+    "email": null,
+    "phone": null,
+    "birthday": null,
+    "isFakeJuniorBirthday": null,
+    "juniorState": 0,
+    "parentAccountId": null,
+    "accountId": 1,
+    "username": "AA",
+    "displayName": "AA",
+    "displayEmoji": null,
+    "profileImage": null,
+    "bannerImage": null,
+    "isJunior": false,
+    "platforms": 0,
+    "personalPronouns": 0,
+    "identityFlags": 0,
+    "createdAt": "0",
+    "isMetaPlatformBlocked": false
+  }
+}
